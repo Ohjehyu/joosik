@@ -18,10 +18,27 @@ Game::Game(int goalAssets) : player(5), news(), bank(), round(0), year(1), goalA
 void Game::start() {
     while (round < maxRound && !checkEndCondition()) {
         playRound();
-        //std::cout << "Enter to continue to the next round...\n";
-        //std::cin.get();
     }
-    std::cout << "게임 종료! 최종 자산: " << player.getFunds() << std::endl;
+
+    clearScreen();
+    std::cout << "게임 종료! 최종 자산: " << player.getFunds() << " 원\n";
+
+    // 엔딩 메시지
+    if (player.getFunds() >= goalAssets) {
+        std::cout << "[엔딩] 목표 자산 달성! 성공적인 투자자입니다!\n";
+    }
+    else if (year > 10) {
+        std::cout << "[엔딩] 10년이 지나 투자 기회가 사라졌습니다.\n";
+        std::cout << "최종 자산으로 삶을 꾸려가야 합니다.\n";
+    }
+    else {
+        std::cout << "[엔딩] 기타 종료 조건에 의해 게임이 끝났습니다.\n";
+    }
+
+    // 포트폴리오 및 상태 출력
+    std::cout << "\n===== 최종 포트폴리오 상태 =====\n";
+    player.showStatus(news.getCompanies(), bank);
+    bank.showStatus();
 }
 
 void Game::playRound() {
@@ -195,5 +212,6 @@ void Game::playRound() {
 }
 
 bool Game::checkEndCondition() const {
-    return player.getFunds() >= goalAssets;
+    return player.getFunds() >= goalAssets || year > 10;
 }
+
