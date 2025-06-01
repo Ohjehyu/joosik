@@ -1,23 +1,36 @@
 #include "Game.h"
 #include <iostream>
+#include <cstdlib>
 
-Game::Game(int goalAssets) : player(5), news(), bank(), round(0), goalAssets(goalAssets) {}
+#ifdef _WIN32
+void clearScreen() {
+    system("cls");
+}
+#else
+void clearScreen() {
+    system("clear");
+}
+#endif
+
+
+Game::Game(int goalAssets) : player(5), news(), bank(), round(0), year(1), goalAssets(goalAssets) {}
 
 void Game::start() {
     while (round < maxRound && !checkEndCondition()) {
-        playRound();  // 한 라운드 진행 후, 사용자가 입력을 기다림
-        std::cout << "Enter to continue to the next round...\n";
-        std::cin.get();  // 엔터 키를 눌러야 다음 라운드로 넘어갑니다
+        playRound();
+        //std::cout << "Enter to continue to the next round...\n";
+        //std::cin.get();
     }
     std::cout << "게임 종료! 최종 자산: " << player.getFunds() << std::endl;
 }
 
-
 void Game::playRound() {
+    clearScreen();
     std::cout << "\nRound " << round + 1 << " 시작!\n";
 
+
     // 뉴스 힌트 출력
-    news.generateHintNews();
+    news.nextRound();
 
     bool roundContinues = true;
     while (roundContinues) {
@@ -69,7 +82,6 @@ void Game::playRound() {
                 break;
             }
 
-            // 실제 매수 수행
             for (int i = 0; i < quantity; ++i) {
                 player.buyStock(selectedCompany.getName(), news.getCompanies());
             }
@@ -136,7 +148,6 @@ void Game::playRound() {
         case 3: {
             std::cout << "\n[포트폴리오 상태]\n";
             player.showStatus(news.getCompanies(), bank);
-            //bank.showStatus();
             break;
         }
         case 4: {
@@ -148,6 +159,15 @@ void Game::playRound() {
         }
         case 5: {
             roundContinues = false;
+
+            // 라운드 증가
+            round++;
+
+            // 연도 증가
+            if (round % 3 == 0) {
+                year++;
+            }
+
             break;
         }
         default:
@@ -155,8 +175,7 @@ void Game::playRound() {
         }
     }
 
-    // 라운드 종료 후 뉴스 결과 반영 및 회사 상태 출력
-    news.applyResultNews();
+    // 라운드 종료 후 뉴스 결과 반영 및 상태 출력
 
     std::cout << "\n[회사 주식 가격 현황]\n";
     news.showCompanyStatus();
@@ -166,12 +185,14 @@ void Game::playRound() {
     bank.showStatus();
 
     std::cout << "\n다음 라운드로 진행하려면 Enter 키를 누르세요...";
-    std::cin.ignore(); // 이전 입력 버퍼 클리어
-    std::cin.get();    // Enter 키 입력 대기
+    std::cin.ignore();
+    std::cin.get();
+
+    // 3라운드마다 1년 경과 메시지 출력
+    if (round > 0 && round % 3 == 0) {
+        std::cout << "\n===== 1년이 지났습니다! 현재 연도: " << year << "년 =====\n";
+    }
 }
-
-
-
 
 bool Game::checkEndCondition() const {
     return player.getFunds() >= goalAssets;

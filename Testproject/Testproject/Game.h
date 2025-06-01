@@ -9,7 +9,8 @@ private:
     News news;
     Bank bank;
     int round;
-    const int maxRound = 10;
+    int year; 
+    const int maxRound = 60;
     const int goalAssets;
 
 public:

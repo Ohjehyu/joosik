@@ -23,7 +23,7 @@ void Player::buyStock(const std::string& companyName, std::vector<Company>& comp
             // 평균 매입가 계산
             averageBuyPrices[i] = (averageBuyPrices[i] * holdings[i] + price) / (holdings[i] + 1);
             holdings[i] += 1;
-            std::cout << "[매수 성공] " << companyName << " 주식 1주 매수 완료\n";
+     
             return;
         }
     }

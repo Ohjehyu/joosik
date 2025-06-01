@@ -5,6 +5,7 @@ class Bank {
 private:
     double loan;
     double interestRate;
+    double maxLoanLimit = 1000000;
 
 public:
     Bank(double i = 0.05) : loan(0.0), interestRate(i) {}

@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\News.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\News.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Portfolio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Portfolio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Holding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Holding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Company.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Company.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\News.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\News.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Holding.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Holding.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Company.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Company.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Stock.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Stock.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Stock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Stock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Portfolio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F83173-1481-41E1-BA7F-0D84B8348614}|Testproject\\Testproject.vcxproj|solutionrelative:Testproject\\Portfolio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "News.cpp",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\News.cpp",
+              "RelativeDocumentMoniker": "Testproject\\News.cpp",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\News.cpp",
+              "RelativeToolTip": "Testproject\\News.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAJcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T11:21:03.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cpp",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Bank.cpp",
+              "RelativeDocumentMoniker": "Testproject\\Bank.cpp",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Bank.cpp",
+              "RelativeToolTip": "Testproject\\Bank.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T11:21:41.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Game.cpp",
+              "RelativeDocumentMoniker": "Testproject\\Game.cpp",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Game.cpp",
+              "RelativeToolTip": "Testproject\\Game.cpp",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T11:22:06.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bank.h",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Bank.h",
+              "RelativeDocumentMoniker": "Testproject\\Bank.h",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Bank.h",
+              "RelativeToolTip": "Testproject\\Bank.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T11:15:32.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Game.h",
+              "RelativeDocumentMoniker": "Testproject\\Game.h",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Game.h",
+              "RelativeToolTip": "Testproject\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T11:15:41.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Holding.cpp",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Holding.cpp",
+              "RelativeDocumentMoniker": "Testproject\\Holding.cpp",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Holding.cpp",
+              "RelativeToolTip": "Testproject\\Holding.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T11:20:02.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\main.cpp",
+              "RelativeDocumentMoniker": "Testproject\\main.cpp",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\main.cpp",
+              "RelativeToolTip": "Testproject\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T11:16:02.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Player.cpp",
+              "RelativeDocumentMoniker": "Testproject\\Player.cpp",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Player.cpp",
+              "RelativeToolTip": "Testproject\\Player.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T11:21:22.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Company.h",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Company.h",
+              "RelativeDocumentMoniker": "Testproject\\Company.h",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Company.h",
+              "RelativeToolTip": "Testproject\\Company.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T11:15:05.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "News.h",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\News.h",
+              "RelativeDocumentMoniker": "Testproject\\News.h",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\News.h",
+              "RelativeToolTip": "Testproject\\News.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T11:15:12.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Portfolio.cpp",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Portfolio.cpp",
+              "RelativeDocumentMoniker": "Testproject\\Portfolio.cpp",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Portfolio.cpp",
+              "RelativeToolTip": "Testproject\\Portfolio.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T11:20:24.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Portfolio.h",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Portfolio.h",
+              "RelativeDocumentMoniker": "Testproject\\Portfolio.h",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Portfolio.h",
+              "RelativeToolTip": "Testproject\\Portfolio.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T11:14:54.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Company.cpp",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Company.cpp",
+              "RelativeDocumentMoniker": "Testproject\\Company.cpp",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Company.cpp",
+              "RelativeToolTip": "Testproject\\Company.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T11:20:44.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Stock.h",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Stock.h",
+              "RelativeDocumentMoniker": "Testproject\\Stock.h",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Stock.h",
+              "RelativeToolTip": "Testproject\\Stock.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T11:14:05.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Holding.h",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Holding.h",
+              "RelativeDocumentMoniker": "Testproject\\Holding.h",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Holding.h",
+              "RelativeToolTip": "Testproject\\Holding.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T11:14:25.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Player.h",
+              "RelativeDocumentMoniker": "Testproject\\Player.h",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Player.h",
+              "RelativeToolTip": "Testproject\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T11:15:20.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Stock.cpp",
+              "DocumentMoniker": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Stock.cpp",
+              "RelativeDocumentMoniker": "Testproject\\Stock.cpp",
+              "ToolTip": "C:\\Users\\book0\\OneDrive\\Documents\\Joosick\\Joosik\\Testproject\\Stock.cpp",
+              "RelativeToolTip": "Testproject\\Stock.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T11:19:42.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

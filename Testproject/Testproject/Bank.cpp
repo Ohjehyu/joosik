@@ -13,6 +13,11 @@ void Bank::takeLoan(double money) {
         std::cout << "[대출 실패] 금액이 0원 이하입니다.\n";
         return;
     }
+    if (loan + money > maxLoanLimit) {
+        std::cout << "[대출 실패] 최대 대출 한도(" << maxLoanLimit
+            << " 원)를 초과할 수 없습니다.\n";
+        return;
+    }
     loan += money;
     std::cout << "[대출 완료] 현재 대출금: " << loan << " 원\n";
 }
