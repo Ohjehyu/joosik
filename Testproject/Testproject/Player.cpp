@@ -1,7 +1,8 @@
 #include "Player.h"
 #include <iostream>
 
-Player::Player(int companyCount) : funds(100000) {
+
+Player::Player(int companyCount) : funds(1000000) {
     holdings.resize(companyCount, 0);
     averageBuyPrices.resize(companyCount, 0.0);
 }
@@ -23,7 +24,7 @@ void Player::buyStock(const std::string& companyName, std::vector<Company>& comp
             // 평균 매입가 계산
             averageBuyPrices[i] = (averageBuyPrices[i] * holdings[i] + price) / (holdings[i] + 1);
             holdings[i] += 1;
-     
+
             return;
         }
     }

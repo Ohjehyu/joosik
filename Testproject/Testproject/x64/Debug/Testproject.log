@@ -1,11 +1,2 @@
-﻿  Bank.cpp
-  Company.cpp
-  Game.cpp
-  Holding.cpp
-  main.cpp
-  News.cpp
-  Player.cpp
-  Portfolio.cpp
-  Stock.cpp
-  코드를 생성하고 있습니다...
-  Testproject.vcxproj -> C:\Users\book0\OneDrive\Documents\Joosick\Joosik\x64\Debug\Testproject.exe
+﻿  Game.cpp
+  Testproject.vcxproj -> C:\Myproject\2_1programing\joosik\Testproject\x64\Debug\Testproject.exe
